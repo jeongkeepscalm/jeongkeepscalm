@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm glad you're here.
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/Korea%20National%20Open%20University-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   </div>
-- 💻 Working as a web developer for a year and a half
+- 💻 Working as a web developer for 3 years
 - 📚 Currently learning:
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm glad you're here.
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   </div>
   
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">

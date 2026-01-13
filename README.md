@@ -1,41 +1,84 @@
-# Hi there 👋
+# Hi there, I'm Jeonggil Oh 👋
 
-Welcome to my GitHub profile! I'm glad you're here.
+### 🚀 **Backend Developer prioritizing Basics & Flexibility**
 
-## About Me
-- 🌐 My blog: [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
-- 🎓 Currently studying Computer Science at Korea National Open University
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/Korea%20National%20Open%20University-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  </div>
-- 💻 Working as a web developer for 3 years
-- 📚 Currently learning:
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-  </div>
+> "변화에 유연하고 기본에 충실합니다. 프로젝트의 성공을 위해서라면, 기술의 경계 없이 무엇이든 배울 준비가 되어 있습니다."
 
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-      <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  </div>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  </div>
-  
-<!--
-**jeongkeepscalm/jeongkeepscalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🏗 3 Years of Experience**
+- **Korea National Open University** (2024.03 ~ Present)
+  - Department of Computer Science (Junior / 3rd Year)
+  <img src="https://img.shields.io/badge/Computer_Science-007396?style=flat-square&logo=bookstack&logoColor=white">
+- 🌐 **Git Blog**: [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
+
+<br>
+
+## 🛠 Tech Stack
+
+**Backend & Language**
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
+</div>
+
+**Database**
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+</div>
+
+**DevOps & Tools**
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+</div>
+
+**Frontend & UI Solutions**
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nexacro-111111?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Websquare5-111111?style=flat-square&logoColor=white"/>
+</div>
+
+<br>
+
+## 💼 Work Experience Highlights
+
+- **IBK 기업은행 경영실적포탈 재구축 (Conversion)**
+  - `Oracle` → `EDB(PostgreSQL)` 쿼리 전환 및 튜닝
+- **올닷 웹사이트 신규 구축**
+  - `Thymeleaf`
+  - `Jenkins`/`GitLab` 활용 CI/CD 자동화 환경 구축
+  - `JMeter` 활용 부하 테스트 및 최적화
+- **대한약사회 홈페이지 리뉴얼**
+  - `JSP` Legacy 시스템 분석 및 기능 구현
+
+<br>
+
+## 🎓 Education
+
+- **Korea National Open University** (2024.03 ~ Present)
+  - Department of Computer Science (Junior / 3rd Year)
+  <img src="https://img.shields.io/badge/Computer_Science-007396?style=flat-square&logo=bookstack&logoColor=white">
+
+<br>
+
+## 📬 Contact
+
+- 🌐 **Portfolio:** [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
+
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeongkeepscalm&show_icons=true&theme=gotham" alt="jeongkeepscalm's stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongkeepscalm&layout=compact&theme=gotham" alt="Top Langs" height="150"/>
+</div>

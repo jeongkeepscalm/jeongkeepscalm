@@ -1,11 +1,5 @@
 # Hi there, I'm Jeonggil Oh 👋
 
-### 🚀 **Backend Developer prioritizing Basics & Flexibility**
-
-> "변화에 유연하고 기본에 충실합니다. 프로젝트의 성공을 위해서라면, 기술의 경계 없이 무엇이든 배울 준비가 되어 있습니다."
-
-<br>
-
 ## 🙋‍♂️ About Me
 
 - **🏗 3 Years of Experience**

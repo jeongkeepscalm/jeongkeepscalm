@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - **🏗 3 Years of Experience**
 - **Korea National Open University** (2024.03 ~ Present)
@@ -10,7 +10,7 @@
 
 <br>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Backend & Language**
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -48,7 +48,7 @@
 
 <br>
 
-## 💼 Work Experience Highlights
+### 💼 Work Experience Highlights
 
 - **IBK 기업은행 경영실적포탈 재구축 (Conversion)**
   - `Oracle` → `EDB(PostgreSQL)` 쿼리 전환 및 튜닝

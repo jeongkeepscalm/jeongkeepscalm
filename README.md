@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-Enabled-2ECC71?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth-Authentication-3498DB?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth-Authorization-9B59B6?style=flat-square&logo=auth0&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
 </div>

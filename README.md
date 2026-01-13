@@ -1,11 +1,11 @@
-# Hi there, I'm Jeonggil Oh 👋
+# Hi there 👋
 
 ## 🙋‍♂️ About Me
 
 - **🏗 3 Years of Experience**
 - **Korea National Open University** (2024.03 ~ Present)
   - Department of Computer Science (Junior / 3rd Year)
-  <img src="https://img.shields.io/badge/Computer_Science-007396?style=flat-square&logo=bookstack&logoColor=white">
+  - <img src="https://img.shields.io/badge/Computer_Science-007396?style=flat-square&logo=bookstack&logoColor=white">
 - 🌐 **Git Blog**: [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
 
 <br>
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
 </div>
 
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=ApacheJMeter&logoColor=white"/>
   <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChangeFlow-0052CC?style=flat-square&logoColor=white"/>
 </div>
 
 **Frontend & UI Solutions**
@@ -56,23 +58,3 @@
   - `JMeter` 활용 부하 테스트 및 최적화
 - **대한약사회 홈페이지 리뉴얼**
   - `JSP` Legacy 시스템 분석 및 기능 구현
-
-<br>
-
-## 🎓 Education
-
-- **Korea National Open University** (2024.03 ~ Present)
-  - Department of Computer Science (Junior / 3rd Year)
-  <img src="https://img.shields.io/badge/Computer_Science-007396?style=flat-square&logo=bookstack&logoColor=white">
-
-<br>
-
-## 📬 Contact
-
-- 🌐 **Portfolio:** [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeongkeepscalm&show_icons=true&theme=gotham" alt="jeongkeepscalm's stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongkeepscalm&layout=compact&theme=gotham" alt="Top Langs" height="150"/>
-</div>

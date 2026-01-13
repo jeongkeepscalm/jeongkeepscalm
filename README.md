@@ -54,7 +54,7 @@
   - `Oracle` → `EDB(PostgreSQL)` 쿼리 전환 및 튜닝
 - **올닷 웹사이트 신규 구축**
   - `Thymeleaf`
-  - `Jenkins`/`GitLab` 활용 CI/CD 자동화 환경 구축
+  - `Jenkins`&`GitLab` 활용 CI/CD 자동화 환경 구축
   - `JMeter` 활용 부하 테스트 및 최적화
 - **대한약사회 홈페이지 리뉴얼**
   - `JSP` Legacy 시스템 분석 및 기능 구현

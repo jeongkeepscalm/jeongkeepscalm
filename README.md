@@ -47,7 +47,7 @@
 </div>
 
 <br>
-
+<!--
 ### 💼 Work Experience Highlights
 
 - **IBK 기업은행 경영실적포탈 재구축 (Conversion)**
@@ -58,3 +58,4 @@
   - `JMeter` 활용 부하 테스트 및 최적화
 - **대한약사회 홈페이지 리뉴얼**
   - `JSP` Legacy 시스템 분석 및 기능 구현
+-->

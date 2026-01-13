@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ About Me
 
-- **🏗 3 Years of Dev Experience**
+- **💻 3 Years of Dev Experience**
 - **Korea National Open University** (2024.03 ~ Present)
   - Department of Computer Science (Junior / 3rd Year)
   - <img src="https://img.shields.io/badge/Computer_Science-007396?style=flat-square&logo=bookstack&logoColor=white">

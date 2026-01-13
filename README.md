@@ -18,16 +18,13 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-Security-2ECC71?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth-2.0-3C3C3D?style=flat-square&logo=oauth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-Token-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-2F6FED?style=flat-square&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-2.0-3C3C3D?style=flat-square&logo=OAuth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
 
 
-  <img src="https://img.shields.io/badge/Security-4B5563?style=flat-square&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-2F6FED?style=flat-square&logo=security&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth-2.0-3C3C3D?style=flat-square&logo=OAuth&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
+  
 
 
   

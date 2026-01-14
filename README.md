@@ -12,7 +12,7 @@
 
 ### 🛠 Tech Stack
 
-**Backend & Language**
+**Backend**
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/OAuth-2.0-3C3C3D?style=flat-square&logo=OAuth&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
-
-
-  
-
-
-  
-
 </div>
 
 **Database**
@@ -39,7 +32,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 </div>
 
-**DevOps & Tools**
+**Tools**
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
@@ -48,10 +41,11 @@
   <img src="https://img.shields.io/badge/ChangeFlow-0052CC?style=flat-square&logoColor=white"/>
 </div>
 
-**Frontend & UI Solutions**
+**Frontend**
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nexacro-111111?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Websquare5-111111?style=flat-square&logoColor=white"/>
 </div>

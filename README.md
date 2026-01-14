@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nexacro-111111?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Websquare5-111111?style=flat-square&logoColor=white"/>
 </div>
 
 <br>
